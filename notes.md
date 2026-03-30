@@ -9,6 +9,7 @@ git remote set-url origin https://github.com/ShottyShane252/ryhma4git.git
 git push -u origin main
 
 PÄIVITYS!
+Hanad branch change 2
 
-
+Hanad toinen yritys
 
